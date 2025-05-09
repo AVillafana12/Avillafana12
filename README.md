@@ -13,3 +13,8 @@ I'm learning to be a Data Science Engineer.<br>I'm currently building web apps, 
 [![](https://visitcount.itsvg.in/api?id=avillafana12&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Avillafana12/Avillafana12/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Avillafana12/Avillafana12/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Avillafana12/Avillafana12/output/github-snake.svg" />
+</picture>
